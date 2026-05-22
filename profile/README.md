@@ -17,5 +17,5 @@ Our public GitHub space is for community resources, open technical references, a
 
 ## Links
 
-- [Website](https://pokerworks.com)
+- [Website](https://pokerworks.io)
 - [Awesome Poker](https://github.com/pokerworks/awesome-poker)
