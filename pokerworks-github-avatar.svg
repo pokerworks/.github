@@ -1,6 +1,6 @@
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1024 1024" width="1024" height="1024" role="img" aria-label="PokerWorks">
-  <rect width="1024" height="1024" rx="176" fill="#f7f1e3"/>
-  <g transform="translate(178 276) scale(8)">
+  <rect width="1024" height="1024" rx="160" fill="#fbf6ea"/>
+  <g transform="translate(218 338) scale(7)">
     <path
       d="M 16 2 L 83 2 L 81.8 6 L 16 6 A 10 10 0 0 0 6 16 L 6 49 L 2 49 L 2 16 A 14 14 0 0 1 16 2 Z"
       fill="#1a160f"
